@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microsoft.services:outlook-services:2.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ec2cb157ee6def55f792b1d85d56ad15/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ec2cb157ee6def55f792b1d85d56ad15/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.services/outlook-services/2.1.0/355812dfe18321d0d46744436460a3e41f95822b/outlook-services-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

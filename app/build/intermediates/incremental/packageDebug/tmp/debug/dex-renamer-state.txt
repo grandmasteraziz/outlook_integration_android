@@ -1,0 +1,4 @@
+#Tue Jul 30 16:13:55 EET 2019
+base.0=/Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microsoft.services.msa:msa-auth:0.8.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3f213f961001ad3d87c052bcbb52331/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3f213f961001ad3d87c052bcbb52331/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.services.msa/msa-auth/0.8.1/a95db2267c3647f0c84f152f3d3ea0a971c276da/msa-auth-0.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

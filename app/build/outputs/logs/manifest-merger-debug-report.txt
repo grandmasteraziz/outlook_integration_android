@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.microsoft.services:outlook-services:2.1.0] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/ec2cb157ee6def55f792b1d85d56ad15/AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/240fbc8c5c1e3deb64cc27f1e2d1d754/AndroidManifest.xml:17:1-24:12
+MERGED from [com.microsoft.services.orc:orc-android:1.3.1-SNAPSHOT] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/3e65225766a3454d32a253ba500fe0a0/AndroidManifest.xml:2:1-15:12
+MERGED from [com.microsoft.aad:adal:2.0-alpha] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/01da510e5212dfacd2204659a5cdfc3b/AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:support-v4:22.2.0] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/62ac4445088610330f4df30b2da4889d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.microsoft.services.msa:msa-auth:0.8.1] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/c3f213f961001ad3d87c052bcbb52331/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [com.microsoft.services:outlook-services:2.1.0] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/ec2cb157ee6def55f792b1d85d56ad15/AndroidManifest.xml:11:5-14:19
+MERGED from [com.microsoft.services:outlook-services:2.1.0] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/ec2cb157ee6def55f792b1d85d56ad15/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/240fbc8c5c1e3deb64cc27f1e2d1d754/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/240fbc8c5c1e3deb64cc27f1e2d1d754/AndroidManifest.xml:22:5-20
+MERGED from [com.microsoft.services.orc:orc-android:1.3.1-SNAPSHOT] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/3e65225766a3454d32a253ba500fe0a0/AndroidManifest.xml:11:5-13:44
+MERGED from [com.microsoft.services.orc:orc-android:1.3.1-SNAPSHOT] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/3e65225766a3454d32a253ba500fe0a0/AndroidManifest.xml:11:5-13:44
+MERGED from [com.microsoft.aad:adal:2.0-alpha] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/01da510e5212dfacd2204659a5cdfc3b/AndroidManifest.xml:11:5-16:19
+MERGED from [com.microsoft.aad:adal:2.0-alpha] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/01da510e5212dfacd2204659a5cdfc3b/AndroidManifest.xml:11:5-16:19
+MERGED from [com.android.support:support-v4:22.2.0] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/62ac4445088610330f4df30b2da4889d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/62ac4445088610330f4df30b2da4889d/AndroidManifest.xml:22:5-20
+MERGED from [com.microsoft.services.msa:msa-auth:0.8.1] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/c3f213f961001ad3d87c052bcbb52331/AndroidManifest.xml:11:5-14:19
+MERGED from [com.microsoft.services.msa:msa-auth:0.8.1] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/c3f213f961001ad3d87c052bcbb52331/AndroidManifest.xml:11:5-14:19
+	android:label
+		ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.microsoft.samples.outlookquickstart.MainActivity
+ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:13:13-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml
+MERGED from [com.microsoft.services:outlook-services:2.1.0] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/ec2cb157ee6def55f792b1d85d56ad15/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.services:outlook-services:2.1.0] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/ec2cb157ee6def55f792b1d85d56ad15/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/240fbc8c5c1e3deb64cc27f1e2d1d754/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/240fbc8c5c1e3deb64cc27f1e2d1d754/AndroidManifest.xml:20:5-43
+MERGED from [com.microsoft.services.orc:orc-android:1.3.1-SNAPSHOT] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/3e65225766a3454d32a253ba500fe0a0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.services.orc:orc-android:1.3.1-SNAPSHOT] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/3e65225766a3454d32a253ba500fe0a0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.aad:adal:2.0-alpha] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/01da510e5212dfacd2204659a5cdfc3b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.aad:adal:2.0-alpha] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/01da510e5212dfacd2204659a5cdfc3b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.2.0] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/62ac4445088610330f4df30b2da4889d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/62ac4445088610330f4df30b2da4889d/AndroidManifest.xml:20:5-43
+MERGED from [com.microsoft.services.msa:msa-auth:0.8.1] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/c3f213f961001ad3d87c052bcbb52331/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.services.msa:msa-auth:0.8.1] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/c3f213f961001ad3d87c052bcbb52331/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/src/main/AndroidManifest.xml
+activity#com.microsoft.aad.adal.AuthenticationActivity
+ADDED from [com.microsoft.aad:adal:2.0-alpha] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/01da510e5212dfacd2204659a5cdfc3b/AndroidManifest.xml:14:9-15:20
+	android:name
+		ADDED from [com.microsoft.aad:adal:2.0-alpha] /Users/gmaster/.gradle/caches/transforms-2/files-2.1/01da510e5212dfacd2204659a5cdfc3b/AndroidManifest.xml:14:19-79

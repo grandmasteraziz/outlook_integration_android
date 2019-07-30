@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jul 30 16:13:56 EET 2019
+0.baseType=DIRECTORY
+0.base=/Users/gmaster/Downloads/Outlook-SDK-Android-master/samples/OutlookQuickStart/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

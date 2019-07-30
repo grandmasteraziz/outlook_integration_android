@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AADAuthority">https://login.microsoftonline.com/common/oauth2/v2.0</string>
+    <string name="AADClientId">9e16bc70-1518-4e21-afb9-fde60704c932</string>
+    <string name="AADResourceId">https://outlook.office.com/</string>
+    <string name="AADRedirectUrl">https://www.google.com</string>
+</resources>
